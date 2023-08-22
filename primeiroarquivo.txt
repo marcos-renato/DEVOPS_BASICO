@@ -1,2 +1,22 @@
 Oi Mundo !!!
 Segunda linha
+
+CARGO 4: ANALISTA JÚNIOR – ÊNFASE: DESENVOLVIMENTO DE SOFTWARE
+BLOCO I: Desenvolvimento avançado em Java, Programação orientada a objetos, qualidade de código e testes. Conceitos de design
+e arquitetura de software; Conhecimento avançado em Angular (typescript), Spring, Hibernate; Conhecimento avançado em Frontend
+HTML, CSS e Javascript; Conhecimento Avançado em DevOps. Conhecimento avançado em GIT, Jenkins, Sonar; Conhecimento
+avançado em Banco de dados SQL, Amplo conhecimento em modelagem/design de APIs REST; Conhecimento avançado em
+desenvolvimento Mobile; Conhecimento na utilização do Azure DEVOPs. Banco de Dados (Independência de dados; Abordagem
+relacional; Modelagem entidade-relacionamento; triggers e stored procedures). Linguagem SQL; Programação (Algoritmos e
+estruturas de dados; Depuração de código em Java; Engenharia de software; Raciocínio Lógico (Sentido lógico- matemático
+convencional dos conectivos; Argumentos; A lógica sentencial; A lógica de predicados de primeira ordem; Regras de formação de
+fórmulas; Sistemas edutivos; Decidibilidade da lógica sentencial; Valores-verdade; Funções de avaliação); Técnicas de
+desenvolvimento seguro (SAST/DAST/IAST); DEVOPS (Princípios e Modelos; Contêineres: Introdução e principais tecnologias de
+contêiner; Virtualização a nível de sistema operacional; Diferença entre a virtualização dos contêineres e os outros tipos de
+virtualização; Modos de utilização de um container; Microsserviços: Conceitos básicos de microsserviços, arquitetura, componentes
+de serviços, serviços e orquestração; Infraestrutura como código).
+BLOCO II: Produtos Digitais, Design Thinking, Ideação, Levantamento, Especificação e Gestão de Requisitos de Negócio e de
+Software, Desenho de Soluções, Arquitetura de Soluções, Testes de Software, Qualidade de software, Mapeamento de processos e
+UX.
+BLOCO III: Processos operacionais na área de transporte de gás natural (Nominação, Programação, Certificação e Alocação).
+
