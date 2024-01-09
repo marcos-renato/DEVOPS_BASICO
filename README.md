@@ -12,3 +12,5 @@ Foi utilizado para realizar teste de comandos git, comandos docker e para guarda
 * windows terminal.pdf
 #### Arquivo com comandos para lembar dos coandos Git,Docker, Linux, ssh, shell scripts e Terraform:
 * comandos importates git e docker.odt
+#### Arquivo que contem links para acessar material Linux, ssh, shell scripts e Terraform:
+* devops_avancado.txt
